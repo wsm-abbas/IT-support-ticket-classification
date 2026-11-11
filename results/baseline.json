@@ -1,0 +1,6 @@
+{
+  "model": "tfidf_logreg",
+  "accuracy": 0.975,
+  "macro_f1": 0.975,
+  "train_seconds": 0.1
+}

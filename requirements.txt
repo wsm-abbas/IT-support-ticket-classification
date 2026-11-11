@@ -1,0 +1,7 @@
+pandas
+joblib
+scikit-learn
+matplotlib
+# only needed for the transformer part
+torch
+transformers
